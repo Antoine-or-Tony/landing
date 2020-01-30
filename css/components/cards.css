@@ -1,0 +1,33 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  }
+
+
+.card {
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgb(230,230,230);
+    text-align: center;
+    padding: 20px;
+    border: 1px solid rgb(230,230,230);
+    background-color: #F8F8F8;
+}
+
+.card img {
+  height: 130px;
+  border-radius: 5px;
+}
+
+.card p {
+  font-size: 16px;
+}
+
+.card h3 {
+  font-size: 24px;
+  color: #3D65C2;
+}
+
+
+
